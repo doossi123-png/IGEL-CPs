@@ -1,0 +1,16 @@
+{
+  "name": "TOEIC 850 MASTER",
+  "short_name": "TOEIC 850",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#123b70",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
